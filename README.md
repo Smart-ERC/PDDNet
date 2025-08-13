@@ -42,8 +42,12 @@ BibTeX:
 	@article{Yang2025C,
 	  title={Enhanced Hardrock Seismic Imaging through Multi-Scale Information-Guided Unsupervised Learning},
 	  author={Liuqing Yang and Alireza Malehmir and Magdalena Markovic},
+      journal={Journal of Geophysical Research: Machine Learning and Computation},
+	  volume={2},
+	  number={2},
 	  year={2025},
-	  pages={Under review},
+	  pages={e2025JH000627},
+      doi={10.1029/2025JH000627},
 	}
 	
 -------------------   
